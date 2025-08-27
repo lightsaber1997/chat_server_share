@@ -1,3 +1,7 @@
+## Project Overview
+This project is a chat server designed to host an LLM model locally and communicate with our MyStoryPal app through an HTTP API. It is built to operate entirely offline, without relying on any external APIs.
+> MystoryPal app - https://github.com/lightsaber1997/story_prototype01.git
+
 ## Installation
 
 ### genie_bundle
